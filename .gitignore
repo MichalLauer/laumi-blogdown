@@ -1,6 +1,7 @@
 # Blogdown
 .DS_Store
 Thumbs.db
+public/
 
 # R
 .Rproj.user

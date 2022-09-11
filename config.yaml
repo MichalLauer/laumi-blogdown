@@ -11,6 +11,9 @@ ignoreFiles:
   - "(^|/)renv$"
   - "\\.Rproj$"
   - "renv\\.lock$"
+  - "posts/.*/R"
+  - "posts/.*/input/"
+  - "posts/.*/create_symlink.bat$"
 
 Paginate: 3
 disqusShortname: gurusabarish

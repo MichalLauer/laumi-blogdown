@@ -1,0 +1,514 @@
+"id";"name";"species";"price";"for_viewing"
+"1";7;"Hissing cockroach";"Invertebrates";1000;TRUE
+"2";8;"Winged Birdsfoot Trefoil";"Invertebrates";1000;TRUE
+"3";16;"Tayra";"Mammals";5000;TRUE
+"4";35;"Caiman vulture";"Reptiles";2000;TRUE
+"5";37;"Yellow-faced turtle";"Reptiles";1000;TRUE
+"6";38;"Steppe turtle (= four-toed)";"Reptiles";1500;TRUE
+"7";39;"Elephant Turtle";"Reptiles";5000;TRUE
+"8";40;"Giant tortoise";"Reptiles";5000;TRUE
+"9";41;"Rock turtle";"Reptiles";1000;TRUE
+"10";50;"Cuban Iguana";"Reptiles";3000;TRUE
+"11";56;"Scink salamander";"Reptiles";1000;TRUE
+"12";59;"Dracena guyana";"Reptiles";3000;TRUE
+"13";61;"Varan emerald";"Reptiles";1500;TRUE
+"14";67;"Rainbow raisin";"Reptiles";1500;TRUE
+"15";68;"Cuban raisin";"Reptiles";1500;TRUE
+"16";70;"Buzzard";"Reptiles";2000;TRUE
+"17";71;"Tiger python";"Reptiles";2000;TRUE
+"18";73;"Royal python";"Reptiles";2000;FALSE
+"19";75;"Green Pythium";"Reptiles";2000;TRUE
+"20";77;"Ruthven's coral";"Reptiles";1500;TRUE
+"21";79;"Nose snake";"Reptiles";1500;FALSE
+"22";83;"Nandu Darwin's";"Birds";5000;TRUE
+"23";84;"Helmet casemaker";"Birds";8000;TRUE
+"24";85;"Emu brown";"Birds";5000;TRUE
+"25";86;"Humboldt's Penguin";"Birds";5000;TRUE
+"26";87;"White Pelican";"Birds";8000;TRUE
+"27";88;"Curly Pelican";"Birds";8000;TRUE
+"28";90;"Night Quack";"Birds";2000;TRUE
+"29";91;"Common Tern";"Birds";2000;TRUE
+"30";93;"Black Stork";"Birds";2500;TRUE
+"31";94;"Stork simbil";"Birds";2500;TRUE
+"32";95;"Marabu African";"Birds";4000;FALSE
+"33";97;"African zebrafish";"Birds";2500;TRUE
+"34";98;"Red Ibis";"Birds";3000;TRUE
+"35";99;"White Ibis";"Birds";3000;TRUE
+"36";100;"Rock Ibis";"Birds";3000;TRUE
+"37";102;"White columbine";"Birds";3000;TRUE
+"38";103;"Chilean flamingo";"Birds";3000;TRUE
+"39";104;"Pink flamingo";"Birds";3000;TRUE
+"40";105;"Cuban flamingo";"Birds";3000;TRUE
+"41";109;"Small goose";"Birds";1000;TRUE
+"42";110;"Red-breasted Merlin";"Birds";1000;TRUE
+"43";111;"Canadian barberry";"Birds";1000;TRUE
+"44";116;"Mandarin duck";"Birds";1000;TRUE
+"45";117;"Bahamian duck";"Birds";1000;TRUE
+"46";118;"Common Lace";"Birds";1000;TRUE
+"47";120;"Hatchet blue";"Birds";1000;TRUE
+"48";123;"Little Pole";"Birds";1000;TRUE
+"49";136;"Crested musk mushroom";"Birds";1000;TRUE
+"50";140;"Brown vulture";"Birds";3000;TRUE
+"51";142;"Bearded Orlosup";"Birds";3000;TRUE
+"52";144;"Bald Eagle";"Birds";3000;TRUE
+"53";146;"Scavenging vulture";"Birds";3000;TRUE
+"54";147;"The Eagle Puppeteer";"Birds";3000;FALSE
+"55";148;"Hadil's scribe";"Birds";3000;FALSE
+"56";152;"Blue-throated Guan";"Birds";2000;FALSE
+"57";160;"Edwards' Pheasant";"Birds";1000;TRUE
+"58";163;"Crowned Peacock";"Birds";1000;TRUE
+"59";165;"Palawan pheasant";"Birds";1000;TRUE
+"60";166;"Pheasant Malay";"Birds";1000;TRUE
+"61";172;"Paradise crane";"Birds";2500;TRUE
+"62";173;"Virgin crane";"Birds";2500;TRUE
+"63";175;"Crane whitewing";"Birds";2500;TRUE
+"64";178;"Seriema reddish white";"Birds";2500;TRUE
+"65";184;"Blood Pigeon";"Birds";1000;TRUE
+"66";186;"Passenger pigeon";"Birds";1000;TRUE
+"67";188;"Bronze pigeon";"Birds";1000;TRUE
+"68";189;"Two-coloured pigeon";"Birds";1000;TRUE
+"69";190;"Nicobar pigeon";"Birds";1000;TRUE
+"70";191;"Bronze-winged Pigeon";"Birds";1000;TRUE
+"71";195;"Lori Black";"Birds";1500;TRUE
+"72";197;"Lori Olive";"Birds";1500;TRUE
+"73";200;"Lori Mountain";"Birds";1500;TRUE
+"74";202;"Lori Papuan";"Birds";1500;FALSE
+"75";205;"Red-bellied Lorikeet";"Birds";1500;TRUE
+"76";212;"Monk parrot";"Birds";1000;FALSE
+"77";213;"White-bellied Turako";"Birds";1000;TRUE
+"78";216;"Burnt owl";"Birds";3000;TRUE
+"79";217;"Eurasian Titmouse";"Birds";3000;TRUE
+"80";225;"Bearded titmouse";"Birds";3000;TRUE
+"81";226;"White-breasted nuthatch";"Birds";3000;TRUE
+"82";227;"Eurasian whitefish";"Birds";3000;TRUE
+"83";230;"Barn Owl";"Birds";1000;TRUE
+"84";233;"Pileated Woodpecker";"Birds";1500;FALSE
+"85";234;"Double-crested Indian rhinoceros";"Birds";3000;TRUE
+"86";235;"Cape Beaver";"Birds";3000;FALSE
+"87";241;"Sooty shearwater";"Birds";1000;TRUE
+"88";242;"Black-throated soybean";"Birds";1000;TRUE
+"89";243;"Soybean beautiful";"Birds";1000;TRUE
+"90";245;"Sichuan Timalia";"Birds";1000;TRUE
+"91";252;"Mayna Rothschild";"Birds";1000;TRUE
+"92";254;"Sacred Salmonberry";"Birds";2000;TRUE
+"93";261;"Great Raven";"Birds";2000;TRUE
+"94";269;"Australian hedgehog";"Mammals";5000;TRUE
+"95";271;"Red kangaroo";"Mammals";7000;TRUE
+"96";272;"Telfair's thistle";"Mammals";2000;TRUE
+"97";277;"Lemur kata";"Mammals";5000;TRUE
+"98";281;"Dwarf poppies";"Mammals";2000;TRUE
+"99";285;"Comba eared";"Mammals";2000;TRUE
+"100";288;"Talapoin North";"Mammals";5000;TRUE
+"101";293;"Central American grayling";"Mammals";5000;TRUE
+"102";297;"Sumatran orangutan";"Mammals";30000;TRUE
+"103";298;"Lowland Gorilla";"Mammals";30000;TRUE
+"104";304;"North American Otter";"Mammals";6000;TRUE
+"105";305;"Panda red";"Mammals";7000;TRUE
+"106";310;"Polar bear";"Mammals";30000;TRUE
+"107";311;"Hyena chabraka";"Mammals";6000;TRUE
+"108";317;"Fenek";"Mammals";5000;TRUE
+"109";319;"Speckled Wolf";"Mammals";6000;TRUE
+"110";320;"Forest dog";"Mammals";5000;TRUE
+"111";329;"Jaguarundi";"Mammals";5000;TRUE
+"112";330;"Clouded leopard";"Mammals";5000;TRUE
+"113";331;"Manchurian leopard";"Mammals";20000;TRUE
+"114";334;"Ussurian tiger";"Mammals";50000;TRUE
+"115";335;"Sumatran tiger";"Mammals";50000;TRUE
+"116";336;"Indian lion";"Mammals";30000;TRUE
+"117";337;"Cheetah";"Mammals";20000;TRUE
+"118";338;"South African sea lion";"Mammals";10000;TRUE
+"119";345;"Great Crested Newt";"Mammals";1000;TRUE
+"120";354;"Hamster Sandpiper (Kyjochvost)";"Mammals";1000;TRUE
+"121";359;"Acacia rat";"Mammals";1000;TRUE
+"122";364;"Porcupine";"Mammals";2000;TRUE
+"123";366;"Guinea pig domestic";"Mammals";1000;FALSE
+"124";369;"Hutia-konga";"Mammals";1000;TRUE
+"125";371;"Gravedigger";"Mammals";7000;TRUE
+"126";373;"Horse of Przewalski";"Mammals";8000;TRUE
+"127";376;"Kiang East";"Mammals";5000;TRUE
+"128";377;"Grévy's Zebra";"Mammals";6000;TRUE
+"129";381;"Indian elephant";"Mammals";50000;TRUE
+"130";385;"Amphibious hippopotamus";"Mammals";50000;TRUE
+"131";387;"Two-humped camel";"Mammals";10000;TRUE
+"132";388;"Lama guanaco";"Mammals";5000;TRUE
+"133";389;"Llama alpaca";"Mammals";5000;TRUE
+"134";392;"Los European";"Mammals";7000;TRUE
+"135";394;"Red deer";"Mammals";5000;TRUE
+"136";396;"Northern Nubian giraffe (= Rothschild's giraffe)";"Mammals";50000;TRUE
+"137";397;"Sitatunga West African";"Mammals";5000;TRUE
+"138";399;"Bongo mountain";"Mammals";7000;TRUE
+"139";402;"Adax";"Mammals";5000;TRUE
+"140";403;"Black-backed Primrose";"Mammals";5000;TRUE
+"141";405;"Caucasian ibex";"Mammals";3000;TRUE
+"142";408;"Spiderwort";"Mammals";3000;TRUE
+"143";409;"Himalayan Tahr";"Mammals";3000;TRUE
+"144";411;"Anoa lowland";"Mammals";7000;TRUE
+"145";412;"Bison";"Mammals";10000;TRUE
+"146";413;"Zubr";"Mammals";10000;TRUE
+"147";431;"The goose scarecrow";"Birds";1000;TRUE
+"148";437;"Takin Indian";"Mammals";5000;TRUE
+"149";438;"Tree Ocelot";"Mammals";5000;TRUE
+"150";441;"Macaque maggot";"Mammals";5000;TRUE
+"151";447;"Grey-blue Crown-of-thorns";"Birds";1500;FALSE
+"152";455;"Carrel reindeer";"Mammals";7000;TRUE
+"153";461;"White-winged Muskrat";"Birds";1000;TRUE
+"154";467;"Great Oystercatcher";"Birds";1500;TRUE
+"155";475;"Blue-winged Teal";"Birds";3000;TRUE
+"156";476;"Blue-bearded Loriculus";"Birds";1500;TRUE
+"157";478;"Annamite turtle";"Reptiles";1000;TRUE
+"158";479;"Amboine tortoise";"Reptiles";1000;TRUE
+"159";481;"Striped mouse";"Mammals";1000;TRUE
+"160";483;"The mombo ambush";"Invertebrates";1000;TRUE
+"161";485;"Grey-headed duck";"Birds";1000;TRUE
+"162";491;"Yellow-breasted Francolin";"Birds";1000;TRUE
+"163";492;"Turkish thistle";"Mammals";1000;FALSE
+"164";493;"Eastern Eagle";"Birds";3000;TRUE
+"165";494;"Lori black-headed";"Birds";1500;TRUE
+"166";498;"Pink pin";"Birds";3000;TRUE
+"167";499;"Round-leaved grasshopper";"Mammals";4000;TRUE
+"168";504;"Prairie Dog";"Mammals";1000;TRUE
+"169";505;"Eurasian wolf";"Mammals";6000;TRUE
+"170";506;"Surikata";"Mammals";5000;TRUE
+"171";508;"Two-fingered ostrich";"Birds";5000;FALSE
+"172";511;"Brown Winged Mouse";"Birds";1000;TRUE
+"173";520;"Great Lizard";"Reptiles";1000;TRUE
+"174";522;"Krajta Albertisova";"Reptiles";2000;TRUE
+"175";533;"Orange-throated thrush";"Birds";1000;TRUE
+"176";538;"White-fronted duck";"Birds";1000;TRUE
+"177";545;"Pink pigeon";"Birds";1000;TRUE
+"178";557;"Blue-tailed Pigeon";"Birds";1000;TRUE
+"179";563;"Almond tree";"Birds";1500;FALSE
+"180";568;"Woolly adelgid";"Birds";1500;FALSE
+"181";570;"Manchurian Crane";"Birds";2500;TRUE
+"182";571;"Spectacled Kestrel";"Birds";3000;TRUE
+"183";575;"Red snapper";"Birds";3000;TRUE
+"184";576;"Rabbit domestic";"Mammals";1000;FALSE
+"185";577;"Squirrel-tailed gerbil";"Mammals";1000;TRUE
+"186";581;"Northern Tana";"Mammals";2000;TRUE
+"187";583;"Nahur blue";"Mammals";3000;TRUE
+"188";585;"White-bellied Bulbul";"Mammals";5000;FALSE
+"189";586;"Primate beisa";"Mammals";5000;FALSE
+"190";587;"Crow antelope";"Mammals";5000;TRUE
+"191";588;"Honeydew";"Mammals";5000;TRUE
+"192";590;"Rabbit kangaroo rabbit";"Mammals";2000;TRUE
+"193";592;"Couscous ground";"Mammals";4000;TRUE
+"194";602;"Irena turquoise";"Birds";1000;TRUE
+"195";621;"Achatina caustica";"Invertebrates";1000;TRUE
+"196";623;"Sklípkan";"Invertebrates";1000;TRUE
+"197";628;"Mangusta fox";"Mammals";5000;TRUE
+"198";633;"Flying squirrel";"Mammals";1000;TRUE
+"199";635;"Cape squirrel";"Mammals";1000;TRUE
+"200";641;"South American tapir";"Mammals";10000;TRUE
+"201";642;"Malaysian ketupa";"Birds";3000;TRUE
+"202";643;"Kangaroo parma";"Mammals";3000;TRUE
+"203";648;"Double rhinoceros rhinoceros";"Birds";3000;TRUE
+"204";649;"Bennett's Kangaroo";"Mammals";3000;TRUE
+"205";651;"An elk antelope";"Mammals";5000;TRUE
+"206";652;"Red Woodcock";"Mammals";5000;FALSE
+"207";654;"Basil green";"Reptiles";1500;TRUE
+"208";659;"Soybean sawfly";"Birds";1000;TRUE
+"209";666;"Eelgrass";"Birds";1500;TRUE
+"210";670;"Bornean Orlicia";"Reptiles";3000;TRUE
+"211";671;"Iguana collared iguana";"Reptiles";1000;TRUE
+"212";673;"Black Turtle";"Reptiles";2000;TRUE
+"213";684;"South African porcupine";"Mammals";2000;TRUE
+"214";686;"Dwarf mongoose";"Mammals";2000;TRUE
+"215";690;"African hoofed cloven hoof";"Mammals";2000;TRUE
+"216";691;"Dog eared";"Mammals";5000;TRUE
+"217";695;"Savannah plch";"Mammals";1000;TRUE
+"218";705;"Raisins variegated";"Reptiles";2000;TRUE
+"219";713;"Percival's Sleposcink";"Reptiles";1000;TRUE
+"220";716;"Mabuja pearl";"Reptiles";1000;TRUE
+"221";717;"Lowland ringtail";"Reptiles";1000;TRUE
+"222";719;"Fire Scink";"Reptiles";1000;TRUE
+"223";721;"Whip-poor-will";"Invertebrates";1000;TRUE
+"224";724;"Rusty Egg Eater";"Reptiles";2000;TRUE
+"225";726;"Millipede";"Invertebrates";1000;TRUE
+"226";728;"Urzon canadensis";"Mammals";2000;TRUE
+"227";733;"Red-bellied Bulbul";"Birds";1000;TRUE
+"228";737;"Patagonian duck";"Birds";1000;TRUE
+"229";738;"Zebra of Böhm";"Mammals";6000;TRUE
+"230";741;"Fishing cat";"Mammals";5000;TRUE
+"231";745;"Nonsympathetic African";"Birds";2500;FALSE
+"232";746;"Boiler squirrel";"Mammals";5000;TRUE
+"233";748;"Pig macaque";"Mammals";5000;TRUE
+"234";749;"Outlaw hesitant";"Mammals";2000;TRUE
+"235";758;"Vodushka abok";"Mammals";5000;FALSE
+"236";760;"Chukwala stumpy";"Reptiles";1000;TRUE
+"237";763;"Pardal turtle";"Reptiles";2000;TRUE
+"238";767;"Eurasian Starling";"Fish";1000;TRUE
+"239";768;"Climber";"Fish";2000;TRUE
+"240";770;"Tree Whiplash";"Reptiles";2000;TRUE
+"241";771;"Toothed turtle";"Reptiles";1000;TRUE
+"242";772;"Thick-billed turtle";"Reptiles";1000;TRUE
+"243";773;"Siebenrock's long neck";"Reptiles";1500;TRUE
+"244";775;"Batagur tuntong";"Reptiles";3000;TRUE
+"245";776;"Varan of Komodo";"Reptiles";30000;TRUE
+"246";781;"East African gecko";"Reptiles";1000;TRUE
+"247";784;"Gabon rhinoceros viper";"Reptiles";2000;TRUE
+"248";786;"The great anaconda";"Reptiles";3000;TRUE
+"249";791;"Sniffer kissing";"Fish";1000;FALSE
+"250";800;"Goose home";"Birds";1500;TRUE
+"251";808;"Domestic pig";"Mammals";2500;TRUE
+"252";811;"Binturong";"Mammals";7000;TRUE
+"253";812;"Bojga ularburong";"Reptiles";2000;TRUE
+"254";814;"Spiny iguana";"Reptiles";1000;TRUE
+"255";816;"Vulture guinea fowl";"Birds";1000;TRUE
+"256";818;"Grey rice tree";"Birds";1000;TRUE
+"257";820;"Bush Squirrel";"Mammals";1000;TRUE
+"258";827;"Gueréza cape";"Mammals";5000;TRUE
+"259";830;"Cuban tortoise";"Reptiles";1000;TRUE
+"260";833;"Common Lizard";"Reptiles";1000;TRUE
+"261";839;"New Guinean carriage";"Reptiles";2000;TRUE
+"262";845;"Splinter of Castex";"Fish";2000;TRUE
+"263";854;"Common Guillemot";"Birds";1000;TRUE
+"264";860;"Narrow-browed Hatchling";"Birds";1000;TRUE
+"265";861;"White guinea fowl";"Birds";1000;TRUE
+"266";867;"Chinese dove";"Birds";1000;TRUE
+"267";868;"The beautiful woodpecker (= the beautiful damselfly)";"Fish";1000;FALSE
+"268";870;"The Satyr of Temminck";"Birds";1000;TRUE
+"269";871;"Striped pigeon breed";"Fish";1000;TRUE
+"270";874;"Turner's Gecko";"Reptiles";1000;TRUE
+"271";878;"Egyptian callaloo";"Mammals";2000;TRUE
+"272";895;"African snout";"Birds";6000;TRUE
+"273";897;"Malayan tiger";"Mammals";50000;TRUE
+"274";902;"Middle guinea fowl";"Birds";1000;TRUE
+"275";907;"Crested coral";"Birds";1000;TRUE
+"276";909;"Mexican Heeler";"Birds";1000;TRUE
+"277";910;"Waved parrot (= Waved parakeet)";"Birds";1000;FALSE
+"278";911;"Singing parrot";"Birds";1000;TRUE
+"279";913;"Pearl-bordered Sniffers";"Fish";1000;FALSE
+"280";915;"Saffron large";"Birds";1000;TRUE
+"281";917;"Rock Pigeon";"Birds";1000;TRUE
+"282";919;"Red-winged blackbird";"Birds";1000;TRUE
+"283";927;"Short-necked Red-bellied Sapsucker";"Reptiles";1500;TRUE
+"284";938;"Lesser Spotted Salamander";"Invertebrates";1000;TRUE
+"285";939;"Amurice Hoeven's";"Fish";1000;FALSE
+"286";940;"Sniffing butterfly";"Fish";1000;FALSE
+"287";948;"Spotted turtle dove";"Fish";1000;TRUE
+"288";949;"Labeo black";"Fish";1000;FALSE
+"289";950;"Red-tailed Labeo";"Fish";1000;FALSE
+"290";952;"Labeo beautifulfin";"Fish";1000;FALSE
+"291";953;"Silvery periwinkle";"Fish";1000;TRUE
+"292";960;"Parmigiana striped tail";"Fish";1000;FALSE
+"293";964;"Schwanenfeld's mullet";"Fish";1000;FALSE
+"294";967;"Shark mullet";"Fish";1000;FALSE
+"295";978;"Trnorep decorated";"Reptiles";1000;TRUE
+"296";980;"Egyptian tortoise";"Reptiles";1000;TRUE
+"297";982;"Smooth snakehead";"Reptiles";1500;TRUE
+"298";985;"Purple python";"Reptiles";2000;TRUE
+"299";987;"Flatback turtle";"Reptiles";2000;TRUE
+"300";988;"Giant Chameleon";"Reptiles";3000;TRUE
+"301";994;"Dome pigeon";"Birds";1000;TRUE
+"302";996;"Wild Dove";"Birds";1000;FALSE
+"303";998;"Rosela variegated";"Birds";1000;TRUE
+"304";1010;"Bell green";"Birds";1000;TRUE
+"305";1017;"Southern Chinese Soybean";"Birds";1000;TRUE
+"306";1018;"Grey-brown Soybean";"Birds";1000;TRUE
+"307";1019;"Spoonbill variegated";"Birds";1000;TRUE
+"308";1021;"Yellow-legged kittiwake";"Birds";1500;FALSE
+"309";1024;"Ibis hagedash";"Birds";3000;TRUE
+"310";1025;"Brown Ibis";"Birds";3000;TRUE
+"311";1027;"Big rat";"Mammals";1000;TRUE
+"312";1028;"Garnett's combos";"Mammals";2000;TRUE
+"313";1031;"Caracal";"Mammals";5000;TRUE
+"314";1032;"Philippine wrapper";"Mammals";5000;TRUE
+"315";1047;"Muskrat domestic";"Birds";1500;TRUE
+"316";1048;"Where domestic";"Birds";1500;TRUE
+"317";1056;"Toko yellow tooth";"Birds";2000;TRUE
+"318";1057;"Rhodriguez callon";"Mammals";2000;TRUE
+"319";1062;"Congo goldenrod";"Invertebrates";1000;TRUE
+"320";1064;"Timalia golden";"Birds";1000;TRUE
+"321";1067;"Egyptian cockroach";"Invertebrates";1000;TRUE
+"322";1069;"Bile larger";"Birds";1500;TRUE
+"323";1071;"Varan anthracite";"Reptiles";1500;TRUE
+"324";1072;"Varan of Moluccas";"Reptiles";1500;TRUE
+"325";1077;"Little Muntjac";"Mammals";3000;TRUE
+"326";1078;"Cinnamon pigeon";"Birds";1000;TRUE
+"327";1080;"Blue Titmouse";"Birds";1500;TRUE
+"328";1082;"Black-chested Thrush";"Birds";1000;TRUE
+"329";1086;"Blackbird";"Birds";1000;TRUE
+"330";1096;"Texas (= Berlandier's) tortoise";"Reptiles";1000;TRUE
+"331";1101;"Indian Gavial";"Reptiles";30000;TRUE
+"332";1102;"Lesser White-breasted Pigeon";"Birds";1000;TRUE
+"333";1105;"Iguana bluish";"Reptiles";1000;TRUE
+"334";1111;"Soylent of the forest";"Birds";1000;TRUE
+"335";1112;"Crown tortoise";"Reptiles";2000;TRUE
+"336";1115;"Mud turtle";"Reptiles";1000;TRUE
+"337";1117;"Smith's Turtle";"Reptiles";1000;TRUE
+"338";1121;"African Thistle";"Mammals";2000;TRUE
+"339";1127;"Small bouquet";"Birds";2000;TRUE
+"340";1130;"Western hedgehog";"Mammals";2000;FALSE
+"341";1133;"Plough rat (rat)";"Mammals";4000;TRUE
+"342";1140;"Yellowing mayfly";"Birds";2000;TRUE
+"343";1142;"Gundi";"Mammals";2000;TRUE
+"344";1144;"Bighorn sheep";"Mammals";3000;TRUE
+"345";1148;"Zebu dwarf";"Mammals";5000;TRUE
+"346";1150;"Striped mouse";"Mammals";1000;FALSE
+"347";1152;"Lori Yellowtail";"Birds";1500;TRUE
+"348";1153;"Tapeworm Tapir";"Mammals";10000;TRUE
+"349";1154;"White-throated jay";"Birds";1000;TRUE
+"350";1155;"Cockroach harlequin";"Invertebrates";1000;TRUE
+"351";1156;"Sooty shearwater";"Birds";1000;FALSE
+"352";1158;"Teju blushing";"Reptiles";1500;TRUE
+"353";1160;"Tunisian tortoise";"Reptiles";1000;TRUE
+"354";1163;"Black-headed Bulbul";"Birds";1000;TRUE
+"355";1164;"Chaya collar";"Birds";2500;FALSE
+"356";1165;"Dark-bellied chaffinch";"Birds";1000;TRUE
+"357";1166;"Australian lapwing";"Birds";1500;TRUE
+"358";1167;"Australian flutebill";"Birds";1500;FALSE
+"359";1168;"Horseshoe Pigeon";"Birds";1000;TRUE
+"360";1169;"Pigeon wonga";"Birds";1000;TRUE
+"361";1170;"Green-winged Pigeon";"Birds";1000;TRUE
+"362";1173;"Whooping Crane";"Birds";2500;TRUE
+"363";1174;"Fighting sturgeon";"Birds";1500;TRUE
+"364";1175;"Dark duck";"Birds";1000;TRUE
+"365";1176;"African hammerhead shrike";"Birds";3000;TRUE
+"366";1179;"She was a stork";"Birds";1500;TRUE
+"367";1182;"Soybean two-coloured";"Birds";1000;TRUE
+"368";1183;"Red-winged Sapsucker";"Birds";1000;TRUE
+"369";1187;"Red-eyed Susan";"Birds";1000;TRUE
+"370";1188;"The other way around";"Birds";1500;TRUE
+"371";1189;"Weaver's weaver";"Birds";1000;TRUE
+"372";1190;"Woodpecker";"Birds";1000;TRUE
+"373";1191;"Lori wavy";"Birds";1500;TRUE
+"374";1192;"Indonesian Cystrake";"Birds";1000;TRUE
+"375";1193;"Iguana bluish";"Reptiles";15000;TRUE
+"376";1197;"Wallich's Pheasant";"Birds";1000;TRUE
+"377";1198;"Pheasant Vietnamese";"Birds";1000;TRUE
+"378";1202;"Beautiful parrot";"Birds";1000;TRUE
+"379";1208;"White-faced Beaver";"Birds";2000;TRUE
+"380";1210;"Domestic pigeon";"Birds";1000;TRUE
+"381";1212;"Domestic sheep";"Mammals";2000;TRUE
+"382";1213;"Domestic goat";"Mammals";2000;TRUE
+"383";1214;"Agama steppe";"Reptiles";1000;TRUE
+"384";1215;"Agama turkestanensis";"Reptiles";1500;TRUE
+"385";1216;"Felzuma Standingova";"Reptiles";1000;TRUE
+"386";1218;"Checkered rattlesnake";"Reptiles";1500;TRUE
+"387";1219;"Golden-breasted Pigeon";"Birds";1000;FALSE
+"388";1226;"Goat thresher";"Reptiles";1000;TRUE
+"389";1227;"Mesopotamian thornback";"Reptiles";1000;TRUE
+"390";1231;"Indian owl";"Birds";3000;TRUE
+"391";1232;"South African toad";"Amphibians";1000;TRUE
+"392";1233;"Sand Agama";"Reptiles";1500;TRUE
+"393";1237;"Brownish Double-crested";"Birds";3000;TRUE
+"394";1238;"Philippine Oystercatcher";"Birds";3000;TRUE
+"395";1239;"Great Egret";"Birds";2000;TRUE
+"396";1240;"Bare-headed starling";"Birds";1500;TRUE
+"397";1241;"Soybean bluestem";"Birds";1000;TRUE
+"398";1244;"Salt mara";"Mammals";1000;TRUE
+"399";1245;"Collared duck";"Birds";1000;TRUE
+"400";1247;"Turkestan gecko";"Reptiles";1000;TRUE
+"401";1248;"Gecko miraculous";"Reptiles";1000;TRUE
+"402";1251;"Cape Verde Mabouya";"Reptiles";1000;TRUE
+"403";1252;"Spiny scrub-jay";"Reptiles";1500;TRUE
+"404";1253;"Sand spider";"Reptiles";2000;TRUE
+"405";1255;"Spiny turtle";"Reptiles";2000;TRUE
+"406";1257;"Brown Partridge";"Birds";1000;TRUE
+"407";1265;"Diamond line";"Birds";1000;TRUE
+"408";1267;"Yellow-bellied Lace";"Birds";1000;TRUE
+"409";1270;"Scaly guinea fowl";"Birds";1000;TRUE
+"410";1273;"Hoko helmet";"Birds";1500;TRUE
+"411";1274;"Latam swallowtail";"Birds";1500;FALSE
+"412";1276;"Quince tree";"Birds";1500;TRUE
+"413";1277;"Straw Ibis";"Birds";3000;TRUE
+"414";1278;"Spotted Pelican";"Birds";8000;FALSE
+"415";1281;"Giant redfish";"Mammals";2000;TRUE
+"416";1284;"Swamp kangaroo";"Mammals";3000;TRUE
+"417";1286;"The largest insect (rat)";"Mammals";4000;FALSE
+"418";1289;"Timalia redolent";"Birds";1000;TRUE
+"419";1290;"White-backed hedgehog";"Mammals";2000;TRUE
+"420";1291;"White-bearded tamarin";"Mammals";4000;TRUE
+"421";1292;"Domestic duck";"Birds";1000;TRUE
+"422";1295;"White-tailed catfish";"Birds";1000;TRUE
+"423";1296;"Chinese starling";"Birds";1000;TRUE
+"424";1297;"Pink starling";"Birds";1000;TRUE
+"425";1298;"Tinama helmet";"Birds";1000;FALSE
+"426";1299;"Muskrat large";"Birds";1000;TRUE
+"427";1300;"South American Teal";"Birds";1500;TRUE
+"428";1301;"Great Pythium";"Birds";1500;TRUE
+"429";1302;"Lori Balinese";"Birds";1500;TRUE
+"430";1304;"Beaked whale";"Birds";2000;TRUE
+"431";1306;"Domestic swan goose";"Birds";1500;TRUE
+"432";1308;"Iguana kyjo tail";"Reptiles";1500;TRUE
+"433";1311;"Smooth-haired otter";"Mammals";6000;TRUE
+"434";1312;"Java leopard";"Mammals";10000;TRUE
+"435";1315;"Fish in the Chambal Pavilion";"Fish";1000;TRUE
+"436";1316;"Spotted eel";"Reptiles";1500;TRUE
+"437";1317;"Collared viper";"Reptiles";1500;TRUE
+"438";1318;"Vipers";"Reptiles";1500;TRUE
+"439";1319;"Green lizard";"Reptiles";1000;TRUE
+"440";1320;"Ulugurian Reed Warbler";"Amphibians";1000;TRUE
+"441";1321;"Southern Combos";"Mammals";2000;TRUE
+"442";1323;"Spotted Gecko";"Reptiles";1000;TRUE
+"443";1326;"Field partridge";"Birds";1000;TRUE
+"444";1328;"Ceylon chicken";"Birds";1000;TRUE
+"445";1330;"Eastern Mountain Kangaroo";"Mammals";7000;TRUE
+"446";1331;"Woodchuck";"Mammals";2000;TRUE
+"447";1332;"White conipass";"Birds";1000;TRUE
+"448";1333;"Neofema Bourkova";"Birds";1000;FALSE
+"449";1334;"Tabon forest";"Birds";1000;TRUE
+"450";1335;"Chinese Velemlock";"Amphibians";20000;TRUE
+"451";1337;"Island sambar";"Mammals";5000;TRUE
+"452";1338;"Tile tortoise";"Reptiles";3000;TRUE
+"453";1343;"Manganese rattlesnake";"Reptiles";2000;TRUE
+"454";1344;"Capuchin Vulture";"Birds";3000;FALSE
+"455";1345;"Red-headed Gnatcatcher";"Birds";1000;TRUE
+"456";1347;"Yellow-bellied Sapsucker";"Birds";1000;FALSE
+"457";1349;"The Pheasant of Salvadori";"Birds";1000;TRUE
+"458";1350;"Royal condor";"Birds";3000;FALSE
+"459";1351;"Great Anteater";"Mammals";8000;TRUE
+"460";1353;"Ravergier's Uzovka";"Reptiles";1500;TRUE
+"461";1355;"Yellow Blavor";"Reptiles";2000;TRUE
+"462";1357;"Giant Gecko";"Reptiles";1000;TRUE
+"463";1358;"Sunshine rockfish";"Birds";1000;TRUE
+"464";1361;"Eastern Scoter";"Reptiles";1500;FALSE
+"465";1362;"Scorpio";"Invertebrates";1000;TRUE
+"466";1363;"White-tailed deer";"Mammals";5000;TRUE
+"467";1364;"South African thistle";"Mammals";1000;TRUE
+"468";1365;"Gibon silver";"Mammals";8000;TRUE
+"469";1367;"Common tern";"Birds";2000;FALSE
+"470";1369;"Crested mayfly";"Birds";1500;TRUE
+"471";1370;"Golden-winged Sapsucker";"Birds";1000;TRUE
+"472";1372;"Song Thrush";"Birds";1000;TRUE
+"473";1373;"Arowana double bearded";"Fish";2000;TRUE
+"474";1374;"Flying Gecko";"Reptiles";1000;TRUE
+"475";1375;"Haitian iguana";"Reptiles";1000;TRUE
+"476";1376;"Iguana desert";"Reptiles";1500;TRUE
+"477";1377;"Aquarius striped";"Reptiles";1500;TRUE
+"478";1378;"Great toadflax";"Reptiles";2000;TRUE
+"479";1379;"Palawan cat";"Mammals";5000;TRUE
+"480";1381;"Imperial Goose";"Birds";2500;TRUE
+"481";1382;"Woodland bee-eater";"Birds";3000;TRUE
+"482";1383;"Javan Shorthaired Pointer";"Birds";3000;FALSE
+"483";1384;"White-faced pigeon";"Birds";1000;TRUE
+"484";1385;"Red-bellied weaver";"Birds";1000;TRUE
+"485";1386;"Rose-breasted Pigeon";"Birds";1000;TRUE
+"486";1387;"Rusty Goose";"Birds";1000;TRUE
+"487";1391;"Amazonian duck";"Birds";1000;TRUE
+"488";1392;"Speckled Hornbill";"Birds";1500;FALSE
+"489";1393;"Lori Sumbawa";"Birds";1500;TRUE
+"490";1394;"Brown-bellied Stepper";"Birds";2000;TRUE
+"491";1395;"Little Swan";"Birds";2500;TRUE
+"492";1396;"Kolpik African";"Birds";3000;TRUE
+"493";1397;"Pekari of Wagner";"Mammals";2000;TRUE
+"494";1398;"Palawan porcupine";"Mammals";2000;TRUE
+"495";1399;"Rusty quahog";"Birds";2000;TRUE
+"496";1401;"Steppe Daman";"Mammals";2000;TRUE
+"497";1404;"Dikdik Kirkov";"Mammals";3000;TRUE
+"498";1405;"White-backed Rhinoceros Auklet";"Mammals";5000;TRUE
+"499";1406;"Grey-winged Ibis";"Birds";3000;TRUE
+"500";1407;"Beaked whale Luzon";"Birds";2000;TRUE
+"501";1408;"Great Buzzard";"Birds";2000;TRUE
+"502";1409;"Pale Pythium";"Birds";1500;FALSE
+"503";1411;"Mottled Duck";"Birds";1000;TRUE
+"504";1412;"Star Tortoise";"Reptiles";1500;TRUE
+"505";1413;"Varanus borneus";"Reptiles";5000;TRUE
+"506";1414;"Netted toad";"Amphibians";1000;TRUE
+"507";1415;"White-fronted sundew";"Amphibians";1000;TRUE
+"508";1416;"Rosnice sine";"Amphibians";1000;TRUE
+"509";1417;"Dewberry salamander";"Amphibians";1000;TRUE
+"510";1418;"Common fritillary";"Amphibians";1000;TRUE
+"511";1419;"Pheasant peacock";"Birds";1000;TRUE
+"512";1420;"Sooty Owl";"Birds";1000;TRUE
+"513";1421;"Chestnut duck";"Birds";1000;TRUE

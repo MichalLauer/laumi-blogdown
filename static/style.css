@@ -1,0 +1,42 @@
+/* Center images */
+img {
+  display: table;
+  margin: auto;
+}
+
+/* Center tables */
+.kable-table {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+/* Set Fira Code */
+@font-face {
+  font-family: 'Fira Code';
+  src: url('https://fonts.googleapis.com/css?family=Fira+Code')
+}
+
+/* Edit code font */
+.language-r {
+  font-family: 'Fira Code';
+  font-weight: 300;
+  font-size: 0.9rem;
+  line-height: "normal";
+}
+
+/* Fix highlight.js background color */
+.language-r, .language-undefined {
+  background-color: transparent !important;
+  padding: 0 !important;
+}
+
+/* Edit code lines */
+.highlight pre {
+  line-height: 1.3rem;
+}
+
+/* Remove vertical line */
+#single .page-content pre {
+  max-height: max-content !important;
+}

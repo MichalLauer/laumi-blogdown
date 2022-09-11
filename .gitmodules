@@ -1,0 +1,3 @@
+[submodule "content/posts/ZooAdoptions"]
+	path = content/posts/ZooAdoptions
+	url = git@github.com:MichalLauer/ZooAdoptions.git

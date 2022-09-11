@@ -1,2 +1,6 @@
+# Blogdown
 .DS_Store
 Thumbs.db
+
+# R
+.Rproj.user

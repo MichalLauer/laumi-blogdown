@@ -1,8 +1,0 @@
-build-last-errors="[]"
-build-last-errors-base-dir=""
-build-last-outputs="[]"
-compile_pdf_state="{\"tab_visible\":false,\"running\":false,\"target_file\":\"\",\"output\":\"\",\"errors\":[]}"
-files.monitored-path=""
-find-in-files-state="{\"handle\":\"3cd6f389564740768447cdc243ef6d41\",\"input\":\".TableOfContents\",\"path\":\"C:/Users/Mike/Desktop/laumi-blogdown\",\"regex\":false,\"ignoreCase\":true,\"results\":{\"file\":[\"C:/Users/Mike/Desktop/laumi-blogdown/themes/hugo-profile/layouts/_default/single.html\"],\"line\":[45],\"lineValue\":[\"{{ .TableOfContents }}\"],\"matchOn\":[[3]],\"matchOff\":[[19]],\"replaceMatchOn\":[[]],\"replaceMatchOff\":[[]]},\"running\":false,\"replace\":false,\"preview\":false,\"gitFlag\":true,\"replacePattern\":\"\"}"
-imageDirtyState="1"
-saveActionState="-1"

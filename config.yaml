@@ -1,7 +1,16 @@
-blogdobaseURL: "https://hugo-profile.netlify.app"
+baseURL: "https://laumi.me"
+blogdobaseURL: "https://laumi.me"
 languageCode: "en-us"
-title: "Hugo Profile"
+title: "Michal Lauer"
 theme: "hugo-profile"
+
+ignoreFiles:
+  - "\\.Rmd$"
+  - "\\.Rmarkdown$"
+  - "_cache$"
+  - "(^|/)renv$"
+  - "\\.Rproj$"
+  - "renv\\.lock$"
 
 Paginate: 3
 disqusShortname: gurusabarish

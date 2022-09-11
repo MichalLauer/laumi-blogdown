@@ -1,3 +1,6 @@
 [submodule "content/posts/ZooAdoptions"]
 	path = content/posts/ZooAdoptions
 	url = git@github.com:MichalLauer/ZooAdoptions.git
+[submodule "contents/posts/2022-09-12-zoo-adoptions/ZooAdoptions"]
+	path = contents/posts/2022-09-12-zoo-adoptions/ZooAdoptions
+	url = git@github.com:MichalLauer/ZooAdoptions.git

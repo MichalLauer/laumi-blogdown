@@ -1,8 +1,18 @@
+# RStudio files
+.Rproj.user/
+.Renviron
+.Rdata
+.Rhistory
+
+# I/O
+input/
+input
+output/
+
 # Blogdown
+*.md
+*_files/
+*.html
 .DS_Store
 Thumbs.db
 public/
-
-# R
-.Rproj.user
-data/

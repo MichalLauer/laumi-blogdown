@@ -99,7 +99,7 @@ params:
   # If you want to customize the menu, you can change it here
   navbar:
     align: mx-auto # Left: ms-auto | center: mx-auto | right: me-auto | Default: ms-auto
-    brandLogo: "/logo.png" # Logo for the brand | default is the favicon variable
+    brandLogo: "/fav.png" # Logo for the brand | default is the favicon variable
     brandName: "Michal Lauer" # Brand name for the brand | default is the title variable
 
   # Hero
@@ -132,27 +132,36 @@ params:
     title: "About Me"
     image: "/images/me.png"
     content: |-
-      I am a software developer with a passion for web development. I have a background in computer science and mathematics, and I have a strong interest in the intersection of technology and art. I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA.
+      I am a student who is enthusiastic about statistics, data, R, and other
+      related domains. The magic of numbers has always amazed me
+      , and it's one of my great life passions. While studying, I realized
+      that Statistics combines all things that are meaningful to me, and ever
+      since, I have been determined to learn as much as possible.
 
-      I am currently working on a project that will be used to help people find the best way to get around the city.
+      My work experience lies in the more technical side of data analytics, like
+      pipeline maintenance, dashboard management, data cleaning, or reporting
+      in excel. I'm keen on gaining more experience with analytics,
+      using statistics in practice, and dipping into the scientific world.
     skills:
       enable: true
-      title: "Here are a few technologies I've been working with recently:"
+      title: "Here are some technologies and frameworks that I'm comfrotable:"
       items:
-        - "HTML"
-        - "CSS"
-        - "JavaScript"
-        - "React"
-        - "Node"
-        - "Express"
+        - "R"
+        - "SQL"
+        - "RMarkdown"
+        - "PowerBI"
+        - "Tidyverse"
+        - "Git"
+        - "Tidymodels"
+        - "Excel"
 
   # Experience
   experience:
     enable: true
-    # title: "Custom Name"
+    title: "Work experience"
     items:
       - job: "Senior Software Developer"
-        company: "Facebook"
+        company: "ReMuS Registry"
         companyUrl: "https://example.com"
         date: "Jan 2022 - present"
         featuredLink:
@@ -161,55 +170,30 @@ params:
           url: "https://example.com"
         content: "I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city."
 
-      - job: "Software Developer"
-        company: "Amazon"
-        companyUrl: "https://example.com"
-        date: "Sep 2020 - Dec 2021"
-        featuredLink:
-          enable: true
-          url: "https://example.com"
-        info:
-          enable: true
-          content: I worked as a software developer for more than one year in Amazon.
-        content: |
-          I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city.
-
-          - Lead backend developer for a product.
-          - Created a frontend design for a product.
-
-      - job: "Junior Software Developer"
-        company: "Apple"
-        companyUrl: "https://example.com"
-        date: "Jan 2020 - Aug 2020"
-        info:
-          enable: false
-        featuredLink:
-          enable: true
-          url: "https://example.com"
-        content: |
-          I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city.
-
-          - Lead backend developer for a product.
-          - Created a frontend design for a product.
-
       - job: "UI/UX Designer"
-        company: "Netflix"
+        company: "DHL IT Services"
         companyUrl: "https://example.com"
         date: "June 2017 - Nov 2019"
-        featuredLink:
-          enable: true
-          url: "https://example.com"
+        # featuredLink:
+        #   enable: true
+        #   url: "https://example.com"
         content: |
           I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city.
 
           - Lead backend developer for a product.
           - Created a frontend design for a product.
 
-      - job: "Product Designer"
-        company: "Google"
-        companyUrl: "https://example.com"
-        date: "Feb 2016 - Mar 2017"
-        content: "I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city."
+      - job: "Private tutor"
+        company: "doučuji eu"
+        companyUrl: "https://www.doucuji.eu/"
+        date: "Feb 2019 - Apr 2019"
+        content: |
+          I worked as a private tutor of math and basic computer usage. My
+          customers were mainly elementary and high school students.
+
+          - Discovered that I like teaching
+          - Learned valuable lessons regarding tutoring
+
 
   # Education
   education:

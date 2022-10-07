@@ -24,7 +24,6 @@ markup:
     renderer:
       unsafe: true
 
-
 Menus:
   main:
     - identifier: blog
@@ -146,54 +145,87 @@ params:
       enable: true
       title: "Here are some technologies and frameworks that I'm comfrotable:"
       items:
-        - "R"
-        - "SQL"
-        - "RMarkdown"
-        - "PowerBI"
-        - "Tidyverse"
-        - "Git"
-        - "Tidymodels"
-        - "Excel"
+        - R
+        - SQL
+        - RMarkdown
+        - PowerBI
+        - Tidyverse
+        - Git
+        - Tidymodels
+        - Excel
 
   # Experience
   experience:
     enable: true
     title: "Work experience"
     items:
-      - job: "Senior Software Developer"
+      - job: "Data Manager"
         company: "ReMuS Registry"
-        companyUrl: "https://example.com"
-        date: "Jan 2022 - present"
-        featuredLink:
-          enable: true
-          name: "View the project"
-          url: "https://example.com"
-        content: "I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city."
-
-      - job: "UI/UX Designer"
-        company: "DHL IT Services"
-        companyUrl: "https://example.com"
-        date: "June 2017 - Nov 2019"
+        companyUrl: "http://multiplesclerosis.cz/"
+        date: "Mar 2022 - present"
         # featuredLink:
         #   enable: true
+        #   name: "View the project"
         #   url: "https://example.com"
         content: |
-          I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city.
+          - Created R pipelines for raw data transformations
+          - Automatized data validation with error reports and data transformation
+          - Analyzed data using R and its packages (renv, tidyverse, openxlsx...)
+          - Made use of RStudio and RStudio Workbench
+          - Documented projects in Confluence, Bitbucket, and Jira
+          - Created programming standards for R, guides and use cases for Git and RStudio, and standardization for project workflow
 
-          - Lead backend developer for a product.
-          - Created a frontend design for a product.
+          <h5>Treatment switch analysis</h5>
+          <small>R, RMarkdown, tidyverse</small>
+          <ul>
+            <li>Analyzed treatment switches among ∼ 19 000 patients and 17 treatments for four
+                different years</li>
+            <li>The team and I reviewed, analyzed, and presented the data</li>
+            <li>Continuously updated and formatted RMarkdown document based on feedback received.</li>
+          </ul>
+
+          <h5>NMOSD data validation</h5>
+          <small>RMarkdown, data validity, record filtering</small>
+          <ul>
+            <li>Validated data in 50+ separate RMarkdown blocks.</li>
+            <li>Automated error reporting for 15 different medical centers.</li>
+            <li>Proposal overview for account managers, KPI statuses for weekly meetings, order overview for managers</li>
+          </ul>
+
+      - job: "ITS Suport Analyst"
+        company: "DHL IT Services"
+        companyUrl: "https://www.dpdhl.com/en/about-us/corporate-divisions/it-services.html"
+        date: "Feb 2020 - Jul 2021"
+        content: |
+          - Consulted and reviewed Service Level Agreements
+          - Lead 2 data‑driven projects
+          - Supported 3 teams with customized Power BI dashboards
+          - Created and managed new data processes and pipelines
+
+          <h5>Consumption based charging</h5>
+          <small>Excel, data cleaning, data validity</small>
+          <ul>
+            <li>Was responsible for extraction and transformation of consumed server storage</li>
+            <li>The team and I reviewed, analyzed, and presented the data</li>
+            <li>In the case of data inconsistency, we investigated throughout the whole data pipeline with
+            multiple people, ranging from technicians to account managers</li>
+          </ul>
+
+          <h5>Automatization and data reporting</h5>
+          <small>Excel, PowerBI, data transformation</small>
+          <ul>
+            <li>Simplified, unified, and made transparent SLA Life cycle review process.</li>
+            <li>Reported weekly KPIs through automated PowerBI pipelines.</li>
+            <li>Delivered and maintained three dashboards for internal stakeholders.</li>
+          </ul>
 
       - job: "Private tutor"
         company: "doučuji eu"
         companyUrl: "https://www.doucuji.eu/"
         date: "Feb 2019 - Apr 2019"
         content: |
-          I worked as a private tutor of math and basic computer usage. My
-          customers were mainly elementary and high school students.
-
-          - Discovered that I like teaching
-          - Learned valuable lessons regarding tutoring
-
+          - Organized and prepared lectures for students
+          - Tutored in Math and IT
 
   # Education
   education:

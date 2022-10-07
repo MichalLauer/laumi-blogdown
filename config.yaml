@@ -113,17 +113,18 @@ params:
     button:
       enable: true
       name: "Resume"
-      url: "#"
-      download: true
+      url: "resume.pdf"
+      newPage: true
+      download: false
     socialLinks:
       fontAwesomeIcons:
         - icon: fab fa-github
-          url: https://example.com
-        - icon: fab fa-twitter
-          url: https://example.com
-      customIcons:
-        - icon: /fav.png
-          url: "https://example.com"
+          url: https://github.com/MichalLauer
+        - icon: fa fa-envelope
+          url: mailto:michal.lauer.25@gmail.com
+      # customIcons:
+      #   - icon: /fav.png
+      #     url: "https://example.com"
 
   # About
   about:

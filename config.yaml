@@ -71,7 +71,7 @@ params:
 
   theme:
     disableThemeToggle: true
-    # defaultTheme: "light" # dark
+    defaultTheme: "light"
 
   # font:
   #   fontSize: 1.5rem # default: 1rem
@@ -97,10 +97,10 @@ params:
   #     secondaryColor:
 
   # If you want to customize the menu, you can change it here
-  # navbar:
-  #   align: mx-auto # Left: ms-auto | center: mx-auto | right: me-auto | Default: ms-auto
-  #   brandLogo: "/logo.png" # Logo for the brand | default is the favicon variable
-  #   brandName: "Profile" # Brand name for the brand | default is the title variable
+  navbar:
+    align: mx-auto # Left: ms-auto | center: mx-auto | right: me-auto | Default: ms-auto
+    brandLogo: "/logo.png" # Logo for the brand | default is the favicon variable
+    brandName: "Michal Lauer" # Brand name for the brand | default is the title variable
 
   # Hero
   hero:

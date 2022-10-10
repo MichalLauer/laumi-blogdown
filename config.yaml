@@ -29,7 +29,7 @@ Menus:
     - identifier: blog
       name: Blog
       title: Blog posts
-      url: /posts
+      url: /blog
       weight: 1
 
     #Dropdown menu

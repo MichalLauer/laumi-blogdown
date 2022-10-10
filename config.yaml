@@ -274,7 +274,7 @@ params:
 
   # Projects
   projects:
-    enable: true
+    enable: false
     # title: "Custom Name"
     bloitems:
       - title: Hugo Profile

@@ -233,39 +233,37 @@ params:
     # title: "Custom Name"
     # index: true
     items:
-      - title: "Master of Business Administration"
+      # Statistics
+      - title: "Masters in Statistics"
         school:
-          name: "University of California, Berkeley"
-          url: "https://example.org"
-        date: "2013 - 2015"
-        GPA: "3.8 out of 5.0"
-        content: |-
-          Extracurricular Activities
-            - Lorem ipsum dolor sit amet consectetur adipisicing elit.
-            - Tempora esse, eaque delectus nulla quo doloribus itaque expedita alias natus optio totam maxime nihil excepturi velit a animi laborum hic similique.
-      - title: "Bachelor of Science in Computer Science"
+          name: "Prague University of Economics and Business"
+          url: "https://www.vse.cz/"
+        date: "2022 — 2025"
+      # Data Analytics
+      - title: "Bachelor in Data Analytics"
         school:
-          name: "Massachusetts Institute of Technology"
-          url: "https://example.org"
-        date: "2009 - 2013"
-        GPA: "3.9 out of 5.0"
-        content: |-
-          I Publiced two papers in the ACM SIGCHI Conference on Artificial Intelligence.
-          - [Fast and Accurate Object Detection with a Single Convolutional Neural Network](https://example.com)
-          - Face mask detection using a single convolutional neural network.
-
-          Extracurricular Activities
-            - Lorem ipsum dolor sit amet consectetur adipisicing elit.
-            - Tempora esse, eaque delectus nulla quo doloribus itaque expedita alias natus optio totam maxime nihil excepturi velit a animi laborum hic similique.
+          name: "Prague University of Economics and Business"
+          url: "https://www.vse.cz/"
+        date: "2021 — 2025"
+      # Applied Informatics
+      - title: "Bachelor in Applied Informatics"
+        school:
+          name: "Prague University of Economics and Business"
+          url: "https://www.vse.cz/"
+        date: "2019 — 2022"
         featuredLink:
           enable: true
-          name: "My academic record"
-          url: "https://example.com"
+          name: "Bachelor thesis - Logistic models in esport"
+          url: "https://vskp.vse.cz/86321_modely-logisticke-regrese-v-oblasti-esportovych-dat"
+          newPage: true
+      # High school
       - title: "High School"
         school:
           name: "Smíchov Secondary Industrial School"
           url: "http://www.ssps.cz/"
         date: "2015 — 2019"
+        # content: |-
+        #   xyz
         # GPA: "4.2 out of 5.0"
         # featuredLink:
         #   enable: true
@@ -276,21 +274,11 @@ params:
     enable: true
     # title: "Custom Name"
     items:
-      - title: Google kickstart runner
-        content: I solved all problems with optimal solution.
-        url: https://example.com
-      - title: Facebook Hackathon Winner
-        content: Developed a product using Artificial Intelligence.
-      - title: Hugo Profile
-        content: Developed a theme and getting 1K+ downloads per month.
-        url: "https://github.com/gurusabarish/hugo-profile"
-      - title: Microsoft Imagine Runner
-        content: We are developed a product which can help others.
-      - title: Google Summer of Code
-        content: Contributed to a open source project.
-        url: https://example.com
+      - title: DataCamp certification
+        content: I've completed DataCamps standardized certification for Data Analytics
+        url: https://www.datacamp.com/certificate/DA0016698068691
 
-  # projects
+  # Projects
   projects:
     enable: true
     # title: "Custom Name"

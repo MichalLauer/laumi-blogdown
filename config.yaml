@@ -102,7 +102,7 @@ params:
     title: "Michal."
     subtitle: "I do math stuff with data."
     content: "My turf is data. My R is valid. My adversaries are missing values, dirty data and bad charts. My goal is to gain insight from your data."
-    image: /images/hero.svg
+    image: /images/hero.png
     button:
       enable: true
       name: "Resume"

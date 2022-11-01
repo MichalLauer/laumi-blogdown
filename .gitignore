@@ -10,9 +10,8 @@ data/
 output/
 
 # Blogdown
-*.md
 *_files/
-*.html
 .DS_Store
 Thumbs.db
-public/
+/public/
+/resources/

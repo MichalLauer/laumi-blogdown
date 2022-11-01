@@ -268,9 +268,12 @@ params:
     enable: true
     # title: "Custom Name"
     items:
-      - title: DataCamp certification
-        content: I've completed DataCamps standardized certification for Professional Data Analysts.
-        url: https://www.datacamp.com/certificate/DA0016698068691
+      - title: Data Analyst Associate
+        content: ...
+        url: https://www.laumi.me/DA-DAA
+      - title: Data Analyst Professional
+        content: ...
+        url: https://www.laumi.me/DA-DAP
 
   # Projects
   projects:

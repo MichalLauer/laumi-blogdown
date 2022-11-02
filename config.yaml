@@ -51,10 +51,10 @@ Menus:
     #   weight: 2
 
 params:
-  title: "Hugo Profile"
-  description: Text about my cool site
+  title: "Michal Lauer"
+  description: "If you want to discover your data, recieve clean R scripts, or present beautifull charts, then I'm the guy to talk to. I can help you with data analysis, R programming, data presentation and much more!"
   # staticPath: ""  # The path to serve the static files from
-  favicon: "/fav.png"
+  # favicon: "/favicon.svg"
   customCSS: true
 
   # Whether to serve bootstrap css and js files from CDN or not. Can be set to true, "css" or "js" to choose between
@@ -92,7 +92,7 @@ params:
   # If you want to customize the menu, you can change it here
   navbar:
     align: mx-auto # Left: ms-auto | center: mx-auto | right: me-auto | Default: ms-auto
-    brandLogo: "/fav.png" # Logo for the brand | default is the favicon variable
+    # brandLogo: "/favicon.svg" # Logo for the brand | default is the favicon variable
     brandName: "Michal Lauer" # Brand name for the brand | default is the title variable
 
   # Hero
@@ -101,7 +101,7 @@ params:
     intro: "Hey, I am"
     title: "Michal."
     subtitle: "I do math stuff with data."
-    content: "My turf is data. My R is valid. My adversaries are missing values, dirty data and bad charts. My goal is to gain insight from your data."
+    content: "If you want to discover your data, recieve clean R scripts, or present beautifull charts, then I'm the guy to talk to. I can help you with data analysis, R programming, data presentation and much more!"
     image: /images/hero.png
     button:
       enable: true
@@ -125,23 +125,26 @@ params:
     title: "About Me"
     image: "/images/me.png"
     content: |-
-      I am a student who is enthusiastic about statistics, data, R, and other
-      related domains. The magic of numbers has always amazed me
-      , and it's one of my great life passions. While studying, I realized
-      that Statistics combines all things that are meaningful to me, and ever
-      since, I have been determined to learn as much as possible.
+      I enjoy working with data in all sorts of ways. Extracting data from
+      various sources and combining them is an art I enjoy practicing. Your
+      data will be wrangled, visualized, and analyzed in a clear and effective
+      way. I believe in a scientific and evidence-based approach
+      to data analysis, which is why all my models, practices, and statistical
+      methods have roots in academic literature and the scientific world.
 
-      My work experience lies in the more technical side of data analytics, like
-      pipeline maintenance, dashboard management, data cleaning, or reporting
-      in excel. I'm keen on gaining more experience with analytics,
-      using statistics in practice, and dipping into the scientific world.
+      I like to explore the R world and everything it has to offer - from
+      creating websites using blogdown, through well-documented analysis using
+      R Markdown, to interactive dashboards with Shiny. I strive to learn
+      every day something new so my work is always up-to-date with the latest
+      standards, practices, and packages.
+
     skills:
       enable: true
-      title: "Here are some technologies and frameworks that I'm comfrotable:"
+      title: "Here are some technologies and frameworks that I'm comfrotable with:"
       items:
         - R
         - SQL
-        - RMarkdown
+        - R Markdown
         - PowerBI
         - Tidyverse
         - Git
@@ -161,57 +164,53 @@ params:
         #   enable: true
         #   name: "View the project"
         #   url: "https://example.com"
-        content: |
-          - Created R pipelines for raw data transformations
-          - Automatized data validation with error reports and data transformation
-          - Analyzed data using R and its packages (renv, tidyverse, openxlsx...)
-          - Made use of RStudio and RStudio Workbench
-          - Documented projects in Confluence, Bitbucket, and Jira
-          - Created programming standards for R, guides and use cases for Git and RStudio, and standardization for project workflow
+        content: |-
+            - Created and managed R pipelines for data transformations and validation
+            - Extensively analyzed sensitive data
+            - Documented projects in R Markdown, Confluence, and Azure DevOps
+            - Created programming standards, guides and use cases for Git and RStudio, and standardization for project workflow
+            - Modernized infrastucture and lead process inovations for reproducible research and automation
+            - Used technologies: R, R Markdown, Tidyverse, knitr, S3, logger, git, renv
 
-          <h5>Treatment switch analysis</h5>
-          <small>R, RMarkdown, tidyverse</small>
-          <ul>
-            <li>Analyzed treatment switches among ∼ 19 000 patients and 17 treatments for four
-                different years</li>
-            <li>The team and I reviewed, analyzed, and presented the data</li>
-            <li>Continuously updated and formatted RMarkdown document based on feedback received.</li>
-          </ul>
+            #### Projects
 
-          <h5>NMOSD data validation</h5>
-          <small>RMarkdown, data validity, record filtering</small>
-          <ul>
-            <li>Validated data in 50+ separate RMarkdown blocks.</li>
-            <li>Automated error reporting for 15 different medical centers.</li>
-            <li>Proposal overview for account managers, KPI statuses for weekly meetings, order overview for managers</li>
-          </ul>
+            ##### Treatment switch analysis
+
+            - Validated data from several sources
+            - Analyzed treatment switches among ∼ 19 000 patients and 17 treatments in four different years
+            - Created extensive excel output spanning over ∼ 16 tables
+
+            ##### Treatment data validation
+
+            - Validated data logic using 50+ checks
+            - Automated error reporting for 15 different medical centers
+            - Implemented review&feedback from doctors on a bi-annual basis
 
       - job: "ITS Suport Analyst"
         company: "DHL IT Services"
         companyUrl: "https://www.dpdhl.com/en/about-us/corporate-divisions/it-services.html"
         date: "Feb 2020 - Jul 2021"
         content: |
-          - Consulted and reviewed Service Level Agreements
-          - Lead 2 data‑driven projects
-          - Supported 3 teams with customized Power BI dashboards
-          - Created and managed new data processes and pipelines
+            - Consulted and reviewed Service Level Agreements
+            - Lead 2 data‑driven projects using excel
+            - Supported 3 teams with customized Power BI dashboards
+            - Created and managed new data processes and pipelines
 
-          <h5>Consumption based charging</h5>
-          <small>Excel, data cleaning, data validity</small>
-          <ul>
-            <li>Was responsible for extraction and transformation of consumed server storage</li>
-            <li>The team and I reviewed, analyzed, and presented the data</li>
-            <li>In the case of data inconsistency, we investigated throughout the whole data pipeline with
-            multiple people, ranging from technicians to account managers</li>
-          </ul>
+            #### Projects
 
-          <h5>Automatization and data reporting</h5>
-          <small>Excel, PowerBI, data transformation</small>
-          <ul>
-            <li>Simplified, unified, and made transparent SLA Life cycle review process.</li>
-            <li>Reported weekly KPIs through automated PowerBI pipelines.</li>
-            <li>Delivered and maintained three dashboards for internal stakeholders.</li>
-          </ul>
+            ##### Consumption based charging
+
+            - Used excel to merge data from 4 different data sources
+            - Was responsible for extraction and transformation of consumed server storage
+            - The team and I reviewed, analyzed, and presented the data
+            - In the case of data inconsistency, we investigated throughout the whole data pipeline with
+            multiple people, ranging from technicians to account managers
+
+            ##### Automatization and data reporting
+
+            - Simplified, unified, and made transparent SLA Life cycle review process using excel and Teams
+            - Reported weekly KPIs through automated PowerBI pipelines
+            - Delivered and maintained 3 dashboards for internal stakeholders
 
       - job: "Private tutor"
         company: "doučuji eu"
@@ -231,20 +230,23 @@ params:
       - title: "Masters in Statistics"
         school:
           name: "Prague University of Economics and Business"
-          url: "https://www.vse.cz/"
+          url: "https://kstp.vse.cz/"
         date: "2022 — 2025"
+        content: "Interests: probability theory, sampling, machine learning."
       # Data Analytics
       - title: "Bachelor in Data Analytics"
         school:
           name: "Prague University of Economics and Business"
           url: "https://www.vse.cz/"
         date: "2021 — 2025"
+        content: "Interests: Open data, data management, data science."
       # Applied Informatics
       - title: "Bachelor in Applied Informatics"
         school:
           name: "Prague University of Economics and Business"
           url: "https://www.vse.cz/"
         date: "2019 — 2022"
+        content: "Interests: Statistics, data mining, economics."
         featuredLink:
           enable: true
           name: "Bachelor thesis - Logistic models in esport"
@@ -256,12 +258,7 @@ params:
           name: "Smíchov Secondary Industrial School"
           url: "http://www.ssps.cz/"
         date: "2015 — 2019"
-        # content: |-
-        #   xyz
-        # GPA: "4.2 out of 5.0"
-        # featuredLink:
-        #   enable: true
-        #   url: "https://example.com"
+        content: "Interests: programming, math, logic circuits, english."
 
   # Achievements
   achievements:
@@ -269,27 +266,27 @@ params:
     # title: "Custom Name"
     items:
       - title: Data Analyst Associate
-        content: ...
+        content: I explored data and wrote a final report to get accredited by DataCamp.
         url: https://www.laumi.me/DA-DAA
       - title: Data Analyst Professional
-        content: ...
+        content: I explored data and presented the results of my analysis in a 10-minute presentation.
         url: https://www.laumi.me/DA-DAP
 
   # Projects
   projects:
-    enable: false
-    # title: "Custom Name"
-    bloitems:
+    enable: true
+    title: "Personal projects"
+    items:
       - title: Hugo Profile
         content: A highly customizable and mobile first Hugo template for personal portfolio and blog.
         image: /images/projects/profile.png
         featured:
           name: Demo
           link: https://hugo-profile.netlify.app
-        # badges:
-        #   - "Hugo"
-        #   - "Bootstrap"
-        #   - "Javascript"
+        badges:
+          - "Hugo"
+          - "Bootstrap"
+          - "Javascript"
         links:
           - icon: fa fa-envelope
             url: mailto:?subject=Hugo%20Profile%20Template&body=Check%20it%20out:%20https%3a%2f%2fhugo-profile.netlify.app%2fblog%2fmarkdown-syntax%2f

@@ -47,3 +47,8 @@ img {
   filter: contrast(1.1) !important;
   cursor: default !important;
 }
+
+/* Experience margin */
+#experience .experience-container .tab-content .tab-pane ul li {
+  margin-bottom: 0 !important;
+}

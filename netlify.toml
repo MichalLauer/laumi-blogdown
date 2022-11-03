@@ -24,3 +24,9 @@ HUGO_ENV = "production"
   to = "https://www.datacamp.com/certificate/DA0016698068691"
   status = 302
   force = true
+
+[[redirects]]
+  from = "/resume"
+  to = "/resume.pdf"
+  status = 302
+  force = true

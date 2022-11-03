@@ -16,17 +16,14 @@ HUGO_ENV = "production"
 [[redirects]]
   from = "/DA-DAA"
   to = "certs/DA-DAA.pdf"
-  status = 302
-  force = true
+  status = 200
 
 [[redirects]]
   from = "/DA-DAP"
   to = "certs/DA-DAP.pdf"
-  status = 302
-  force = true
+  status = 200
 
 [[redirects]]
   from = "/resume"
   to = "/resume.pdf"
-  status = 302
-  force = true
+  status = 200

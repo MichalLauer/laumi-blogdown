@@ -15,13 +15,13 @@ HUGO_ENV = "production"
 
 [[redirects]]
   from = "/DA-DAA"
-  to = "https://www.datacamp.com/certificate/DAA0015136991877"
+  to = "certs/DA-DAA.pdf"
   status = 302
   force = true
 
 [[redirects]]
   from = "/DA-DAP"
-  to = "https://www.datacamp.com/certificate/DA0016698068691"
+  to = "certs/DA-DAP.pdf"
   status = 302
   force = true
 

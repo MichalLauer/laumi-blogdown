@@ -14,6 +14,16 @@ command = "hugo -F -b $DEPLOY_PRIME_URL"
 HUGO_ENV = "production"
 
 [[redirects]]
+  from = "/resume"
+  to = "/resume.pdf"
+  status = 200
+
+[[redirects]]
+  from = "/cv"
+  to = "/resume.pdf"
+  status = 200
+
+[[redirects]]
   from = "/DA-DAA"
   to = "certs/DA-DAA.pdf"
   status = 200
@@ -24,6 +34,6 @@ HUGO_ENV = "production"
   status = 200
 
 [[redirects]]
-  from = "/resume"
-  to = "/resume.pdf"
+  from = "/DA-DSA"
+  to = "certs/DA-DSA.pdf"
   status = 200

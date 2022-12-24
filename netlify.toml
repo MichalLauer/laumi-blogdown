@@ -37,3 +37,8 @@ HUGO_ENV = "production"
   from = "/DA-DSA"
   to = "certs/DA-DSA.pdf"
   status = 200
+
+ [[redirects]]
+  from = "/2023-novy-zacatek"
+  to = "prekvapko.webp"
+  status = 200
